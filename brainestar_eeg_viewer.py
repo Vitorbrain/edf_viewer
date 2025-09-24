@@ -1,3 +1,4 @@
+# New version
 # -*- coding: utf-8 -*-
 """
 BrainEstar — Visualizador de EDF (tema claro)
